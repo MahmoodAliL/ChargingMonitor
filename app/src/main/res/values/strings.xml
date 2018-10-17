@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Charging Monitor</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="led_color">LED color</string>
+</resources>
