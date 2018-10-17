@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <!-- battery color  -->
+    <color name="color90_100">#009688</color>
+    <color name="color80_89">#CDDC39</color>
+    <color name="color70_79">#FFC107</color>
+    <color name="color60_69">#FF9800</color>
+    <color name="color50_59">#FF5722</color>
+    <color name="color30_49">#E91E63</color>
+    <color name="color0_29">#D93651</color>
+</resources>
